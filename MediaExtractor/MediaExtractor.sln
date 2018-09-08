@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaExtractor", "MediaExtractor\MediaExtractor.csproj", "{078F5001-DC3A-4FC3-B82E-A767FDF79606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078F5001-DC3A-4FC3-B82E-A767FDF79606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078F5001-DC3A-4FC3-B82E-A767FDF79606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078F5001-DC3A-4FC3-B82E-A767FDF79606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078F5001-DC3A-4FC3-B82E-A767FDF79606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CDA7D29-5002-470C-91C6-EEE3E674FA83}
+	EndGlobalSection
+EndGlobal
